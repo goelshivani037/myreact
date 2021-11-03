@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/goelshivani037/myreact/static/css/main.952f967f.chunk.css",
+    "main.js": "/goelshivani037/myreact/static/js/main.a6a340a1.chunk.js",
+    "main.js.map": "/goelshivani037/myreact/static/js/main.a6a340a1.chunk.js.map",
+    "runtime-main.js": "/goelshivani037/myreact/static/js/runtime-main.2d31c6b8.js",
+    "runtime-main.js.map": "/goelshivani037/myreact/static/js/runtime-main.2d31c6b8.js.map",
+    "static/js/2.2ec6ec17.chunk.js": "/goelshivani037/myreact/static/js/2.2ec6ec17.chunk.js",
+    "static/js/2.2ec6ec17.chunk.js.map": "/goelshivani037/myreact/static/js/2.2ec6ec17.chunk.js.map",
+    "index.html": "/goelshivani037/myreact/index.html",
+    "static/css/main.952f967f.chunk.css.map": "/goelshivani037/myreact/static/css/main.952f967f.chunk.css.map",
+    "static/js/2.2ec6ec17.chunk.js.LICENSE.txt": "/goelshivani037/myreact/static/js/2.2ec6ec17.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/goelshivani037/myreact/static/media/img-6.7e7345a6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d31c6b8.js",
+    "static/js/2.2ec6ec17.chunk.js",
+    "static/css/main.952f967f.chunk.css",
+    "static/js/main.a6a340a1.chunk.js"
+  ]
+}
